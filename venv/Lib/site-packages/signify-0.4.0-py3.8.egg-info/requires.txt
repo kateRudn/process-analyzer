@@ -1,0 +1,8 @@
+pyasn1>=0.4.0
+certvalidator>=0.11
+asn1crypto<2,>=1.3
+oscrypto<2,>=1.1
+pyasn1-modules>=0.2.8
+
+[stlupdate]
+requests
