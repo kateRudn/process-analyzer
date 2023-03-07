@@ -1,2 +1,3 @@
-from app import utils
-from app import design
+from peutils import SignatureDatabase
+
+signatures = SignatureDatabase('../files/PEID.txt')
